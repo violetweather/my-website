@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "bulma-start": "^0.0.5"
+  },
+  "name": "bulma-attempt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
